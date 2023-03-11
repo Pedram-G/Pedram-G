@@ -21,7 +21,7 @@
 I am a Biomedical Engineering Student and Cybersecurity Researcher from Iran.
 - 👀 I’m interested in A.I & Web Pentest
 - 🌱 I’m currently a master's student in biomedical engineering
-- :zap: In my free time, I do Python coding and read A.I articles.
+- :zap: In my free time, I do Python coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and read A.I articles.
 - 📫 How to reach me --->Email: pedram.ghiasvand.bme@gmail.com
 
 ---
